@@ -1,0 +1,4 @@
+moviepy
+# py2app==0.24
+tk
+pyinstaller
